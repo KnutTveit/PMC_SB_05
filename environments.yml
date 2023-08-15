@@ -1,0 +1,9 @@
+name: PMC_SB_05_-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.16
+  - numpy
+  - matplotlib
+  - pandas
+  - pathlib
